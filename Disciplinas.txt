@@ -1,0 +1,10 @@
+ALGI,Algoritmos I
+ALGII,Algoritmos II
+CALI,Calculo I
+ED,Estrutura de Dados
+ARQ,Arquitetura de Computadores
+ISD,Introducao a Sistemas Digitais
+PRB,Probabilidade e estatistica
+BDI,Banco de dados I
+ENG,Engenharia de Software
+COM,Computacao e Sociedade
